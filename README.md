@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-itse-2317-program-1-polymorphism-and-interfaces
+<br>
+Modify the payroll system provided to include an additional Employee subclass, named <em>PieceWorker</em> that represents an employee whose pay is based on the number of pieces of merchandise produced. Class <em>PieceWorker</em> should contain private instance variables <em>wage</em> (to store the employee’s wage per piece) and <em>pieces</em> (to store the number of pieces produced).
+
+Provide a concrete implementation of method earnings in class <em>PieceWorker</em> that calculates the employee’s earnings by multiplying the number of pieces produced by the wage per piece.  Create an array of Employee variables to store references to objects of each concrete class in the new Employee hierarchy.  For each Employee, display its String representation and earnings.
